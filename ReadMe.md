@@ -12,6 +12,7 @@ This is a simple C program, i coded to explain common types of vulnerabilities l
 This C program contains vulenrable code of all of the above vulnerabilities and then users can fuzz it using AFL or hongfuzz or anything else they want. 
 
 **How to Compile **
+
 just type "make" on the command prompt. Makefile is included with it.
 
 **How to generate input for AFL?**
