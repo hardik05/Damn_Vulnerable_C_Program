@@ -20,8 +20,11 @@ echo "IMG" >input/1.txt
 AFL will automatically generate new test cases and discover most of the vulnerabilities mentioned above. thats the beauty of AFL :)
 
 **How to fuzz it using AFL?**
+
 **run this command:** afl-fuzz -i input -o output -m none -- ./imgRead @@
+
 you can see the video tutorials here:
+
 https://youtu.be/m1RkShHzx_8
 
 
