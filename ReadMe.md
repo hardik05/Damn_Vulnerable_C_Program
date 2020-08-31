@@ -29,7 +29,14 @@ AFL will automatically generate new test cases and discover most of the vulnerab
 
 you can see the video tutorials here:
 
-https://youtu.be/m1RkShHzx_8
+**[Fuzzing with AFL] How to install AFL on Ubuntu**-> https://www.youtube.com/watch?v=r7ucv2kN4j4
+
+**[Fuzzing with AFL] Fuzzing a simple C program with AFL** -> https://www.youtube.com/watch?v=NiGC1jxFx78&t=66s
+
+**[Fuzzing with AFL] Finding different types of vulnerabilities with AFL** -> https://www.youtube.com/watch?v=m1RkShHzx_8&t=151s
+
+**[Fuzzing with AFL] Triaging crashes with crashwalk and finding root cause with GDB** -> https://www.youtube.com/watch?v=5R2gPkCXZkM
+
 
 
 **Why you created this?**
@@ -41,7 +48,7 @@ If you learn something from it, send me a thnak you note. thats all i need.
 
 **Twitter:** https://twitter.com/hardik05 
 
-**Email:** hardik05@gmail.com
+**Email:** DM me on twitter :)
 
 **web:** http://hardik05.wordpress.com
 
