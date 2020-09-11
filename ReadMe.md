@@ -39,10 +39,12 @@ you can see the video tutorials here:
 
 **[Fuzzing with AFL] Triaging crashes with crashwalk and finding root cause with GDB** -> https://www.youtube.com/watch?v=5R2gPkCXZkM
 
-**[Fuzzing with honggFuzz] Fuzzing a simple C program with HongFuzz** -> https://www.youtube.com/watch?v=6OBXJtEe-d8
+**[Fuzzing with honggfuzz] Fuzzing a simple C program with HongFuzz** -> https://www.youtube.com/watch?v=6OBXJtEe-d8
+**[Fuzzing with honggfuzz] Hongfuzz,checksec(pwntools),ASAN** -> https://www.youtube.com/watch?v=Lr8pLQRTHac 
 
 **Windows**
 **[Fuzzing with WinAFL] Fuzzing a simple C program with WinAFL** -> https://www.youtube.com/watch?v=Va_Wtxf3DMc
+**[Fuzzing with WinAFL] What is a fuzzing function, how to make sure everything is working fine?** -> https://www.youtube.com/watch?v=HLORLsNnPzo
 
 more will be uploaded as i create them.
 
