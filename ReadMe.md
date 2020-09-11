@@ -45,6 +45,7 @@ you can see the video tutorials here:
 **Windows**
 
 **[Fuzzing with WinAFL] Fuzzing a simple C program with WinAFL** -> https://www.youtube.com/watch?v=Va_Wtxf3DMc
+
 **[Fuzzing with WinAFL] What is a fuzzing function, how to make sure everything is working fine?** -> https://www.youtube.com/watch?v=HLORLsNnPzo
 
 more will be uploaded as i create them.
