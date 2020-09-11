@@ -19,7 +19,7 @@ just type "make" on the command prompt. Makefile is included with it.
 
 just create a sample input file as following and rest AFL will take care:
 
-echo "IMG" >input/1.txt
+`echo "IMG" >input/1.txt`
 
 AFL will automatically generate new test cases and discover most of the vulnerabilities mentioned above. thats the beauty of AFL :)
 
@@ -27,21 +27,21 @@ AFL will automatically generate new test cases and discover most of the vulnerab
 
 **1. First compile this program using following command:**
 
-afl-gcc -g -fsanitize=address imgRead.c -o imgread
+`afl-gcc -g -fsanitize=address imgRead.c -o imgread`
 
 **2. run this command:** 
 
-afl-fuzz -i input -o output -m none -- ./imgRead @@
+`afl-fuzz -i input -o output -m none -- ./imgRead @@`
 
 **How to fuzz it using honggfuzz**
 
 **1. First compile this program using following command:**
 
-hfuzz-gcc -g -fsanitize=address imgRead.c -o imgread
+`hfuzz-gcc -g -fsanitize=address imgRead.c -o imgread`
 
 **2. run this command:** 
 
-hongfuzz -i input -- ./imgread ___FILE___
+`hongfuzz -i input -- ./imgread ___FILE___`
 
 you can see the video tutorials here:
 
