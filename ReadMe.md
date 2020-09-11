@@ -43,6 +43,7 @@ you can see the video tutorials here:
 **[Fuzzing with honggfuzz] Hongfuzz,checksec(pwntools),ASAN** -> https://www.youtube.com/watch?v=Lr8pLQRTHac 
 
 **Windows**
+
 **[Fuzzing with WinAFL] Fuzzing a simple C program with WinAFL** -> https://www.youtube.com/watch?v=Va_Wtxf3DMc
 **[Fuzzing with WinAFL] What is a fuzzing function, how to make sure everything is working fine?** -> https://www.youtube.com/watch?v=HLORLsNnPzo
 
