@@ -25,7 +25,23 @@ AFL will automatically generate new test cases and discover most of the vulnerab
 
 **How to fuzz it using AFL?**
 
-**run this command:** afl-fuzz -i input -o output -m none -- ./imgRead @@
+**1. First compile this program using following command:**
+
+afl-gcc -g -fsanitize=address imgRead.c -o imgread
+
+**2. run this command:** 
+
+afl-fuzz -i input -o output -m none -- ./imgRead @@
+
+**How to fuzz it using honggfuzz**
+
+**1. First compile this program using following command:**
+
+hfuzz-gcc -g -fsanitize=address imgRead.c -o imgread
+
+**2. run this command:** 
+
+hongfuzz -i input -- ./imgread ___FILE___
 
 you can see the video tutorials here:
 
