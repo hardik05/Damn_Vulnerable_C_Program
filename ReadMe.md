@@ -43,7 +43,26 @@ AFL will automatically generate new test cases and discover most of the vulnerab
 
 `hongfuzz -i input -- ./imgread ___FILE___`
 
+ **How to fuzz using libfuzzer**
+ 
+You need to modify the C code, you can get the updated code from here: https://github.com/hardik05/Damn_Vulnerable_C_Program/blob/master/imgRead_libfuzzer.c
+
+**1. Compile the program using following command:**
+
+`clang -fsanitize=fuzzer,address,undefined -g imgRead_libfuzzer.c -o imgRead_libfuzzer`
+
+**2. run this command to fuzz:
+
+`./imgRead_libfuzzer`
+
+
 you can see the video tutorials here:
+
+**Complete Fuzzing Playlist:**
+
+https://www.youtube.com/watch?v=r7ucv2kN4j4&list=PLHGgqcJIME5kYhOSdJjvtVS4b4_OXDqM-
+
+individual videos below:
 
 **Linux**
 
@@ -56,7 +75,12 @@ you can see the video tutorials here:
 **[Fuzzing with AFL] Triaging crashes with crashwalk and finding root cause with GDB** -> https://www.youtube.com/watch?v=5R2gPkCXZkM
 
 **[Fuzzing with honggfuzz] Fuzzing a simple C program with HongFuzz** -> https://www.youtube.com/watch?v=6OBXJtEe-d8
+
 **[Fuzzing with honggfuzz] Hongfuzz,checksec(pwntools),ASAN** -> https://www.youtube.com/watch?v=Lr8pLQRTHac 
+
+**[Fuzzing with libfuzzer] How to fuzz a simple C program using LibFuzzer** -> https://www.youtube.com/watch?v=hFva8kJQwnc&list=PLHGgqcJIME5m7HaHfACayoyN0TRe2PHRp
+
+**[Fuzzing with libfuzzer,AFL] How to fuzz libfuzzer harness program using AFL** -> https://www.youtube.com/watch?v=HfEqm3TrfwM&list=PLHGgqcJIME5m7HaHfACayoyN0TRe2PHRp&index=2
 
 **Windows**
 
@@ -80,6 +104,8 @@ If you learn something from it, send me a thnak you note. thats all i need.
 **Email:** DM me on twitter :)
 
 **web:** http://hardik05.wordpress.com
+
+**my youtube channel:** https://www.youtube.com/user/MrHardik05/featured?view_as=subscriber
 
 
 **Feedback?**
