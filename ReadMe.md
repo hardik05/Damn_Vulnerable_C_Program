@@ -100,6 +100,14 @@ individual videos below:
 
 **[Fuzzing with WinAFL] What is a fuzzing function, how to make sure everything is working fine?** -> https://www.youtube.com/watch?v=HLORLsNnPzo
 
+**I need more windows harness to fuzz with winafl**
+
+sure, check here -> https://github.com/hardik05/winafl-harness
+
+**i want to try something different may be some different mutators than winafl default ones..**
+
+yep, you can try this -> https://github.com/hardik05/winafl-powermopt
+
 more will be uploaded as i create them.
 
 
