@@ -66,6 +66,8 @@ individual videos below:
 
 **Linux**
 
+**AFL**
+
 **[Fuzzing with AFL] How to install AFL on Ubuntu**-> https://www.youtube.com/watch?v=r7ucv2kN4j4
 
 **[Fuzzing with AFL] Fuzzing a simple C program with AFL** -> https://www.youtube.com/watch?v=NiGC1jxFx78&t=66s
@@ -74,15 +76,25 @@ individual videos below:
 
 **[Fuzzing with AFL] Triaging crashes with crashwalk and finding root cause with GDB** -> https://www.youtube.com/watch?v=5R2gPkCXZkM
 
+**Honggfuzz**
+
 **[Fuzzing with honggfuzz] Fuzzing a simple C program with HongFuzz** -> https://www.youtube.com/watch?v=6OBXJtEe-d8
 
 **[Fuzzing with honggfuzz] Hongfuzz,checksec(pwntools),ASAN** -> https://www.youtube.com/watch?v=Lr8pLQRTHac 
+
+**Libfuzzer**
 
 **[Fuzzing with libfuzzer] How to fuzz a simple C program using LibFuzzer** -> https://www.youtube.com/watch?v=hFva8kJQwnc&list=PLHGgqcJIME5m7HaHfACayoyN0TRe2PHRp
 
 **[Fuzzing with libfuzzer,AFL] How to fuzz libfuzzer harness program using AFL** -> https://www.youtube.com/watch?v=HfEqm3TrfwM&list=PLHGgqcJIME5m7HaHfACayoyN0TRe2PHRp&index=2
 
+**Radamsa**
+
+**[Fuzzing with Radamsa] Fuzzing a simple C program with Radamsa** -> https://youtu.be/1FRsXVNpynQ
+
 **Windows**
+
+**WinAFL**
 
 **[Fuzzing with WinAFL] Fuzzing a simple C program with WinAFL** -> https://www.youtube.com/watch?v=Va_Wtxf3DMc
 
