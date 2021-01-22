@@ -1,0 +1,8 @@
+191c191
+< type name (void)			\
+---
+> static type name (void)			\
+265c265
+< int gettid(void) {
+---
+> static int gettid(void) {
