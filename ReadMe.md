@@ -76,6 +76,8 @@ individual videos below:
 
 **[Fuzzing with AFL] Triaging crashes with crashwalk and finding root cause with GDB** -> https://www.youtube.com/watch?v=5R2gPkCXZkM
 
+**[Fuzzing with AFL] Fuzzing a binary with no source code with AFL in Qemu mode.**-> https://www.youtube.com/watch?v=np3sLLFQs6I
+
 **Honggfuzz**
 
 **[Fuzzing with honggfuzz] Fuzzing a simple C program with HongFuzz** -> https://www.youtube.com/watch?v=6OBXJtEe-d8
