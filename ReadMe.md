@@ -1,3 +1,5 @@
+**my youtube channel:** https://www.youtube.com/user/MrHardik05/featured?view_as=subscriber
+
 **What it is?**
 
 This is a simple C program, i coded to explain common types of vulnerabilities like:
@@ -126,9 +128,6 @@ If you learn something from it, send me a thnak you note. thats all i need.
 **Email:** DM me on twitter :)
 
 **web:** http://hardik05.wordpress.com
-
-**my youtube channel:** https://www.youtube.com/user/MrHardik05/featured?view_as=subscriber
-
 
 **Feedback?**
 
