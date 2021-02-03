@@ -70,7 +70,7 @@ individual videos below:
 
 **AFL++**
 
-**[Fuzzing with AFLpluspls] Installing AFLPlusplus and fuzzing a simple C program** -> https://www.youtube.com/watch?v=9wRVo0kYSlc
+**[Fuzzing with AFLplusplus] Installing AFLPlusplus and fuzzing a simple C program** -> https://www.youtube.com/watch?v=9wRVo0kYSlc
 
 **AFL**
 
