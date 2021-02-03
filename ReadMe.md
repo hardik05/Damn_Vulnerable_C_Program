@@ -68,6 +68,10 @@ individual videos below:
 
 **Linux**
 
+**AFL++**
+
+**[Fuzzing with AFLpluspls] Installing AFLPlusplus and fuzzing a simple C program** -> https://www.youtube.com/watch?v=9wRVo0kYSlc
+
 **AFL**
 
 **[Fuzzing with AFL] How to install AFL on Ubuntu**-> https://www.youtube.com/watch?v=r7ucv2kN4j4
