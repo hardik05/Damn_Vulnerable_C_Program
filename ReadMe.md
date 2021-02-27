@@ -10,6 +10,8 @@ This is a simple C program, i coded to explain common types of vulnerabilities l
 5. Double Free
 6. Use After Free
 7. Memory leaks
+8. Stack exhaustion
+9. Heap exhastion
 
 This C program contains vulenrable code of all of the above vulnerabilities and then users can fuzz it using AFL or hongfuzz or anything else they want. 
 
@@ -71,6 +73,8 @@ individual videos below:
 **AFL++**
 
 **[Fuzzing with AFLplusplus] Installing AFLPlusplus and fuzzing a simple C program** -> https://www.youtube.com/watch?v=9wRVo0kYSlc
+
+**[Fuzzing with AFLplusplus] How to fuzz a binary with no source code on Linux in persistent mode** -> https://www.youtube.com/watch?v=LGPJdEO02p4
 
 **AFL**
 
