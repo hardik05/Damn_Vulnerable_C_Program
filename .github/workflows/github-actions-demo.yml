@@ -14,6 +14,8 @@ jobs:
       - name: List files in the repository
         run: |
           ls ${{ github.workspace }}
+      - name: Install GCC
+        uses: egor-tensin/setup-gcc@v1
       - name: Compiling imgRead.c
         run: |
           gcc imgRead.c -o imgRead_gcc
