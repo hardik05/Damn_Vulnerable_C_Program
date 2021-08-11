@@ -13,9 +13,7 @@ jobs:
       - run: echo "🖥️ The workflow is now ready to test your code on the runner."
       - name: List files in the repository
         run: |
-          ls ${{ github.workspace }}
-      - name: Install GCC
-        uses: egor-tensin/setup-gcc@v1
+          ls ${{ github.workspace }}      
       - name: Compiling imgRead.c
         run: |
           gcc imgRead.c -o imgRead_gcc
