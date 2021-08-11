@@ -15,5 +15,6 @@ jobs:
         run: |
           ls ${{ github.workspace }}
       - name: Compiling imgRead.c
-        run: gcc imgRead.c -o imgRead_gcc
+        run: |
+          gcc imgRead.c -o imgRead_gcc
       - run: echo "🍏 This job's status is ${{ job.status }}."
