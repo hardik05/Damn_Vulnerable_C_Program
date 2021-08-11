@@ -7,7 +7,7 @@ Web: http://hardik05.wordpress.com
 //a vulnerable c program to explain common vulnerability types
 //fuzz with AFL
 
-#include<stdio.h>
+#include<std1io.h>
 #include<stdlib.h>
 #include<string.h>
 
