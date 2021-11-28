@@ -1,0 +1,1 @@
+/home/kali/Desktop/fuzzing_workshop/LibAFL/fuzzers/damn_vulnerable_c_program_git/target/release/damn_vulnerable_c_program: /home/kali/Desktop/fuzzing_workshop/LibAFL/fuzzers/damn_vulnerable_c_program_git/build.rs /home/kali/Desktop/fuzzing_workshop/LibAFL/fuzzers/damn_vulnerable_c_program_git/src/main.rs

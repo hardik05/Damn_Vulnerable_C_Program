@@ -1,0 +1,1 @@
+{"rustc":8020860686714880400,"features":"","target":0,"profile":0,"path":0,"deps":[[2501357309719355037,"build_script_build",false,10149963465834666900]],"local":[{"RerunIfChanged":{"output":"release/build/damn_vulnerable_c_program-48f8465f9d6f09d5/output","paths":["build.rs","src/main.rs"]}}],"rustflags":[],"metadata":0,"config":0,"compile_kind":0}
