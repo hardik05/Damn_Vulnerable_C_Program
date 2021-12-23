@@ -1,0 +1,7 @@
+imgRead.c:35:18: warning: passing 'unsigned char *' to parameter of type 'const char *' converts between pointers to integer types with different sign [-Wpointer-sign]
+        bufsize =strlen(shmem_buf); 
+                        ^~~~~~~~~
+/usr/include/string.h:391:35: note: passing argument to parameter '__s' here
+extern size_t strlen (const char *__s)
+                                  ^
+1 warning generated.

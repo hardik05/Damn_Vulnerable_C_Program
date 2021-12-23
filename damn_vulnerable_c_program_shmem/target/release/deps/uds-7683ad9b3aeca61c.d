@@ -1,0 +1,13 @@
+/home/kali/Desktop/fuzzing_workshop/LibAFL/fuzzers/damn_vulnerable_c_program_shmem/target/release/deps/uds-7683ad9b3aeca61c.rmeta: /home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/uds-0.2.6/src/lib.rs /home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/uds-0.2.6/src/addr.rs /home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/uds-0.2.6/src/credentials.rs /home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/uds-0.2.6/src/helpers.rs /home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/uds-0.2.6/src/ancillary.rs /home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/uds-0.2.6/src/traits.rs /home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/uds-0.2.6/src/seqpacket.rs
+
+/home/kali/Desktop/fuzzing_workshop/LibAFL/fuzzers/damn_vulnerable_c_program_shmem/target/release/deps/libuds-7683ad9b3aeca61c.rlib: /home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/uds-0.2.6/src/lib.rs /home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/uds-0.2.6/src/addr.rs /home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/uds-0.2.6/src/credentials.rs /home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/uds-0.2.6/src/helpers.rs /home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/uds-0.2.6/src/ancillary.rs /home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/uds-0.2.6/src/traits.rs /home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/uds-0.2.6/src/seqpacket.rs
+
+/home/kali/Desktop/fuzzing_workshop/LibAFL/fuzzers/damn_vulnerable_c_program_shmem/target/release/deps/uds-7683ad9b3aeca61c.d: /home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/uds-0.2.6/src/lib.rs /home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/uds-0.2.6/src/addr.rs /home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/uds-0.2.6/src/credentials.rs /home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/uds-0.2.6/src/helpers.rs /home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/uds-0.2.6/src/ancillary.rs /home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/uds-0.2.6/src/traits.rs /home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/uds-0.2.6/src/seqpacket.rs
+
+/home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/uds-0.2.6/src/lib.rs:
+/home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/uds-0.2.6/src/addr.rs:
+/home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/uds-0.2.6/src/credentials.rs:
+/home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/uds-0.2.6/src/helpers.rs:
+/home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/uds-0.2.6/src/ancillary.rs:
+/home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/uds-0.2.6/src/traits.rs:
+/home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/uds-0.2.6/src/seqpacket.rs:
