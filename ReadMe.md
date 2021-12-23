@@ -1,4 +1,4 @@
-**my youtube channel:** https://www.youtube.com/user/MrHardik05/featured?view_as=subscriber
+**My YouTube Channel:** https://www.youtube.com/user/MrHardik05/featured?view_as=subscriber
 
 **What it is?**
 
@@ -10,10 +10,12 @@ This is a simple C program, i coded to explain common types of vulnerabilities l
 5. Double Free
 6. Use After Free
 7. Memory leaks
+8. Stack exhaustion
+9. Heap exhastion
 
 This C program contains vulenrable code of all of the above vulnerabilities and then users can fuzz it using AFL or hongfuzz or anything else they want. 
 
-**How to Compile **
+**How to Compile**
 
 just type "make" on the command prompt. Makefile is included with it.
 
@@ -68,9 +70,20 @@ individual videos below:
 
 **Linux**
 
+**LibAFL**
+
+**[Fuzzing with libAFL]How to install libAFL on system and what are the different components?** -> https://www.youtube.com/watch?v=ztGfxbvcrms
+
+**[Fuzzing with libAFL]libAFL ForkSever Introduction, Running libAFL forkserver fuzzer.** -> https://www.youtube.com/watch?v=Ed1anYoGTyA
+
+**[Fuzzing with libAFL]Fuzzing Damn Vulnerable C Program with libAFL forkserver fuzzer** -> https://www.youtube.com/watch?v=ad_4zroiS_g
+
+
 **AFL++**
 
 **[Fuzzing with AFLplusplus] Installing AFLPlusplus and fuzzing a simple C program** -> https://www.youtube.com/watch?v=9wRVo0kYSlc
+
+**[Fuzzing with AFLplusplus] How to fuzz a binary with no source code on Linux in persistent mode** -> https://www.youtube.com/watch?v=LGPJdEO02p4
 
 **AFL**
 
@@ -131,9 +144,9 @@ If you learn something from it, send me a thnak you note. thats all i need.
 
 **Email:** DM me on twitter :)
 
-**web:** http://hardik05.wordpress.com
+**Web:** http://hardik05.wordpress.com
 
 **Feedback?**
 
-suggestions and comments are always welcomed. if you find any issue or have a fix or a new feature send pull request.
+Suggestions and comments are always welcomed. if you find any issue or have a fix or a new feature send pull request.
 
