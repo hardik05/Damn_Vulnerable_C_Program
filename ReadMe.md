@@ -55,7 +55,7 @@ You need to modify the C code, you can get the updated code from here: https://g
 
 `clang -fsanitize=fuzzer,address,undefined -g imgRead_libfuzzer.c -o imgRead_libfuzzer`
 
-**2. run this command to fuzz:
+**2. run this command to fuzz:**
 
 `./imgRead_libfuzzer`
 
