@@ -78,6 +78,8 @@ individual videos below:
 
 **[Fuzzing with libAFL]Fuzzing Damn Vulnerable C Program with libAFL forkserver fuzzer** -> https://www.youtube.com/watch?v=ad_4zroiS_g
 
+**[Fuzzing with libAFL] Using shared memory mode with libAFL forkserver fuzzer** -> https://www.youtube.com/watch?v=GXD_qkISyfY
+
 
 **AFL++**
 
