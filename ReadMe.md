@@ -2,7 +2,7 @@
 
 **What it is?**
 
-This is a simple C program, i coded to explain common types of vulnerabilities like:
+This is a simple C program which I have coded to explain common types of vulnerabilities like:
 1. integer overflow
 2. integer underflow
 3. Out of bound Read
@@ -13,11 +13,11 @@ This is a simple C program, i coded to explain common types of vulnerabilities l
 8. Stack exhaustion
 9. Heap exhastion
 
-This C program contains vulenrable code of all of the above vulnerabilities and then users can fuzz it using AFL or hongfuzz or anything else they want. 
+This C program contains vulenrable code of all of the above vulnerabilities and you can fuzz it using any fuzzer like AFL, libafl, libfuzzer, hongfuzz, winafl, jackalope or any other fuzzer which you want. 
 
 **How to Compile**
 
-just type "make" on the command prompt. Makefile is included with it.
+Just type "make" on the command prompt. Makefile is included with it.
 
 **How to generate input for AFL?**
 
@@ -60,7 +60,7 @@ You need to modify the C code, you can get the updated code from here: https://g
 `./imgRead_libfuzzer`
 
 
-you can see the video tutorials here:
+You can see the video tutorials here:
 
 **Complete Fuzzing Playlist:**
 
