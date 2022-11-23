@@ -111,6 +111,8 @@ individual videos below:
 
 **[Fuzzing with libfuzzer,AFL] How to fuzz libfuzzer harness program using AFL** -> https://www.youtube.com/watch?v=HfEqm3TrfwM&list=PLHGgqcJIME5m7HaHfACayoyN0TRe2PHRp&index=2
 
+**How to replicate OpenSSL vulnerabilities CVE-2022-3602 and CVE-2022-3786 and use libfuzzer** -> https://www.youtube.com/watch?v=vhTuXph1dtY
+
 **Radamsa**
 
 **[Fuzzing with Radamsa] Fuzzing a simple C program with Radamsa** -> https://youtu.be/1FRsXVNpynQ
