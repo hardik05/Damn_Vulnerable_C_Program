@@ -135,6 +135,9 @@ yep, you can try this -> https://github.com/hardik05/winafl-powermopt
 
 more will be uploaded as i create them.
 
+**OSS-Fuzz from google**
+
+**How OSS-Fuzz Works: A Guide to Fuzz Testing for Open Source Projects** -> https://www.youtube.com/watch?v=OBxCDsJ-0aM
 
 **Why you created this?**
 
