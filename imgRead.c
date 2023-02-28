@@ -125,5 +125,10 @@ int ProcessImage(char* filename){
 
 int main(int argc,char **argv)
 {
+	if (argc < 2) {
+    		fprintf(stderr, "no input file\n");
+    		exit(-1);
+  	}
 	ProcessImage(argv[1]);
+	return 0;
 }
