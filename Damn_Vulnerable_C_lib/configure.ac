@@ -1,0 +1,9 @@
+AC_PREREQ([2.69])
+AC_INIT([libimgReadlib], [1.0])
+LT_INIT
+AM_INIT_AUTOMAKE
+AC_CONFIG_SRCDIR([imgReadlib.c])
+AC_PROG_CC 
+AC_CHECK_HEADERS([stdio.h])
+AC_CONFIG_FILES([Makefile])
+AC_OUTPUT
