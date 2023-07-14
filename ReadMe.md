@@ -146,7 +146,7 @@ more will be uploaded as i create them.
 
 It takes lot of time for new comers and even experianced people to understand different types of vulnerabilities. i have faced this problem myself and decided to share what i learned.
 
-If you learn something from it, send me a thnak you note. thats all i need.
+If you learn something from it, send me a thnak you note. thats all i need. Also if you want to improve of fix something then PR are welcomed!
 
 **Author?**
 
