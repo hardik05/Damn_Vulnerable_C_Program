@@ -14,7 +14,7 @@ jobs:
       - name: List files in the repository
         run: |
           ls ${{ github.workspace }}      
-      - name: Compiling imgRead.c
+      - name: Compiling dvcp.c
         run: |
-          gcc imgRead.c -o imgRead_gcc
+          gcc dvcp.c -o dvcp_gcc
       - run: echo "🍏 This job's status is ${{ job.status }}."
