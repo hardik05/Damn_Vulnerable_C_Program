@@ -34,33 +34,33 @@ AFL will automatically generate new test cases and discover most of the vulnerab
 
 **1. First compile this program using following command:**
 
-`afl-gcc -g -fsanitize=address imgRead.c -o imgread`
+`afl-gcc -g -fsanitize=address dvcp.c -o dvcp`
 
 **2. run this command:** 
 
-`afl-fuzz -i input -o output -m none -- ./imgRead @@`
+`afl-fuzz -i input -o output -m none -- ./dvcp @@`
 
 **How to fuzz it using honggfuzz**
 
 **1. First compile this program using following command:**
 
-`hfuzz-gcc -g -fsanitize=address imgRead.c -o imgread`
+`hfuzz-gcc -g -fsanitize=address dvcp.c -o dvcp`
 
 **2. run this command:** 
 
-`hongfuzz -i input -- ./imgread ___FILE___`
+`hongfuzz -i input -- ./dvcp ___FILE___`
 
  **How to fuzz using libfuzzer**
  
-You need to modify the C code, you can get the updated code from here: https://github.com/hardik05/Damn_Vulnerable_C_Program/blob/master/imgRead_libfuzzer.c
+You need to modify the C code, you can get the updated code from here: https://github.com/hardik05/Damn_Vulnerable_C_Program/blob/master/dvcp_libfuzzer.c
 
 **1. Compile the program using following command:**
 
-`clang -fsanitize=fuzzer,address,undefined -g imgRead_libfuzzer.c -o imgRead_libfuzzer`
+`clang -fsanitize=fuzzer,address,undefined -g dvcp_libfuzzer.c -o dvcp_libfuzzer`
 
 **2. run this command to fuzz:**
 
-`./imgRead_libfuzzer`
+`./dvcp_libfuzzer`
 
 
 You can see the video tutorials here:
