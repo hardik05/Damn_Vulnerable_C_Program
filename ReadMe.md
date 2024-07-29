@@ -1,3 +1,5 @@
+Note: file name has been changed from imgRead.c to dvcp.c, if you are watching videos, you will see imgRead.c but in github repo you will see dvcp.c, please use correct filename.
+
 # Damn Vulnerable C Program(DVCP)             
 [![Twitter Follow](https://img.shields.io/twitter/follow/hardik05?style=social)](https://twitter.com/hardik05)
 
