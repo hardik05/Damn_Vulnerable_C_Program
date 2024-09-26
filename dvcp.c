@@ -58,12 +58,12 @@ int ProcessImage(char* filename){
 			memcpy(buff1,img.data,sizeof(img.data));
 			free(buff1);
 			//double free	
-			if (size1/2==0){
+			if (size1 % 2 == 0){
 				free(buff1);
 			}
 			else{
 				//use after free
-				if(size1/3 == 0){
+				if(size1 % 3 == 0){
 					buff1[0]='a';
 				}
 			}
@@ -102,7 +102,7 @@ int ProcessImage(char* filename){
 				free(buff4);
 			}
 			int size4 = img.width * img.height;
-			if(size4/2==0){
+			if(size4 % 2 == 0){
 				//stack exhaustion here
 				stack_operation();
 			}
