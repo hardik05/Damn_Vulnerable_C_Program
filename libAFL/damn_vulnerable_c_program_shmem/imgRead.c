@@ -52,12 +52,12 @@ int ProcessImage(char* filename){
 	memcpy(buff1,img->data,sizeof(img->data));
 	free(buff1);
 	//double free	
-	if (size1/3==0){
+	if (size1%3==0){
 		free(buff1);
 	}
 	else{
 		//use after free
-		if(size1/20 == 0){
+		if(size1%2 == 0){
 			buff1[0]='a';
 		}
 	}
@@ -87,7 +87,7 @@ int ProcessImage(char* filename){
 	buff3[size3]='c';
 	buff4[size1]='c';
 
-	if(size3/5==0){
+	if(size3%5==0){
 		//memory leak here
 		buff4=0;
 	}
